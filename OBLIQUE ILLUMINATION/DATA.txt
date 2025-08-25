@@ -1,0 +1,5 @@
+Thickness simulation 0.250 um
+MAX RAIUD AT 148
+CUTOFF FREQ 150
+Pixel pitch 4.65
+Wavelenght 0.532
