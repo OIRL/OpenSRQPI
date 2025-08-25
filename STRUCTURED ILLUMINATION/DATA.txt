@@ -1,0 +1,3 @@
+Thickness simulation 0.250 um
+MAX RAIUD AT 148
+CUTOFF FREQ 150
