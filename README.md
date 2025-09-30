@@ -1,1 +1,3 @@
+<h1>OpenSRQPI App </h1>
+
 The OpenSRQPI App is an open-access, GUI-based computational platform for super-resolution reconstruction in QPI using both structured and oblique illumination. Whereas open-source tools for structured illumination microscopy (SIM), including fairSIM, SIMToolbox, and Open-3DSIM, have enabled widespread adoption of fluorescent-based SIM in life sciences by lowering computational barriers and offering robust image validation workflows, such resources are notably absent in the domain of QPI. Unlike qualitative fluorescence SIM imaging, QPI requires precise phase estimation across the entire field of view, where even small inaccuracies can distort quantitative analysis. 
